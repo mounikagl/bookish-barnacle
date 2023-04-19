@@ -31,7 +31,7 @@ int main() {
   }
 
   // Print the merged array
-  printf("\nMerged array: ");
+  printf("\nMerged array is: ");
   for(i=0; i<mergedSize; i++) {
     printf("%d ", merged[i]);
   }
