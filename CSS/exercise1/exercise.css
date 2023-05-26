@@ -1,0 +1,18 @@
+body{
+    background-color:blanchedalmond;
+}
+
+li{
+    display: inline-block;
+    background-color: red;
+    color: white;
+}
+
+section{
+    background-color: aliceblue;
+}
+
+footer{
+    background-color: grey;
+    color: white;
+}

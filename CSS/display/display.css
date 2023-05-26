@@ -1,0 +1,17 @@
+
+span{
+    display: block;
+}
+div{
+    display: inline;
+}
+li{
+    list-style:decimal;
+    /* display: inline-block;
+    width:100px;
+    height:100px; */
+}
+/* nav{
+    display: none;
+    visibility: hidden;
+} */

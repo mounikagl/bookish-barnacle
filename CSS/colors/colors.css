@@ -1,0 +1,45 @@
+#colorstyling{
+    color: aquamarine;
+    font-size:24px;
+    font-weight: bold;
+    font-style:normal;
+}
+
+.green1{
+    color: green;
+}
+
+.green2{
+    color: #00ff00;
+}
+
+.green3{
+    color: rgb(0,255,0);
+}
+.green4{
+    color: rgba(0,255,0,1);
+}
+
+.white{
+    color: #fff;
+    /* background-color: blue; */
+}
+
+.font{
+    font-size: 36px;
+    color:white;
+}
+
+body{
+    /* background-color: aquamarine;
+    background-image:url(tree.jpg);
+    background-position: top;
+    background-repeat:repeat;
+    background-attachment: fixed; */
+
+    background: aqua url(tree.jpg) no-repeat right top;
+}
+
+.blue{
+    color: blue;
+}

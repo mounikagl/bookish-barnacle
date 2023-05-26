@@ -1,0 +1,8 @@
+img{
+    max-width: 100%;
+    float: left;
+}
+.myClass2 img{
+
+    float: right;
+}

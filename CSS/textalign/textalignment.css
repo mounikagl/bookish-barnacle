@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+        body{
+            font-family: 'Pacifico', cursive;
+            text-align: justify;
+        }
+/* li {
+    color: red;
+    font-family: fantasy;
+    font-family: 'Pacifico';
+}
+
+.textRight {
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.textLeft {
+    text-align: left;
+    text-decoration: overline;
+    text-transform: lowercase;
+}
+
+.textJustify {
+    text-align: justify;
+    text-decoration: line-through;
+}
+
+.textCenter {
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+.myClass1 {
+    text-indent: 40px;
+    letter-spacing: 5px;
+    line-height: 2;
+} */
+
+.myClass2 {
+    direction: ltr;
+    word-spacing: 20px;
+    color: blue;
+}
+
+.myClass3 {
+    color: green;
+    text-shadow: 5px 5px lightgreen;
+}

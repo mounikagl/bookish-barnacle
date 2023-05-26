@@ -1,0 +1,25 @@
+a{
+    text-decoration: none; 
+ }
+ a:link {
+     color:red;
+ }
+ a:visited{
+     color:green;
+ }
+ a:hover{
+     color:pink;
+ }
+ a:active{
+     color:aqua;
+ }
+ div:hover{
+     background-color: yellow;
+     font-size: 2em;
+ }
+/*        .container div:last-child{
+     background: purple;
+ }*/
+ .container div:nth-child(2){
+     background: yellow;
+ }

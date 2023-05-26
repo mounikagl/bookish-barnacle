@@ -1,0 +1,21 @@
+.test1 {
+    text-align: center;
+    text-transform:uppercase;
+}
+
+.test2 {
+    text-align: left;
+    font-style: italic;
+}
+
+.test3 {
+    text-align: right;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.test4 {
+    text-decoration: underline;
+    word-spacing: 20px;
+    font-size: 2.5em;
+}

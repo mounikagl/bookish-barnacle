@@ -1,0 +1,37 @@
+div {
+    border: 1px solid blue;
+    width: 300px;
+    height: 300px;
+}
+
+.box1 {
+    position: absolute;
+    background: red;
+    left: 50px;
+    top: 50px;
+}
+
+.box2 {
+    position: fixed;
+    background: blue;
+    left: 100px;
+    top: 100px;
+}
+
+.box3 {
+    position: relative;
+    background: green;
+    left: 150px;
+    top: 150px;
+}
+
+.box4 {
+    position: static;
+    left: 200px;
+    top: 200px;
+}
+
+.box5 {
+    left: 250px;
+    top: 250px;
+}

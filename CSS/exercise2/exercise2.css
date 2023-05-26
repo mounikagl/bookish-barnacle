@@ -1,0 +1,35 @@
+body{
+    background-color:blanchedalmond;
+}
+li{
+    display: inline-block;
+    background-color: red;
+}
+
+.textcolorB{
+    color: blue;
+}
+.textcolorW{
+    color: white;
+}
+
+.font{
+    font-size: 24px;
+    font-weight:bolder;
+    font-style: italic;
+}
+.background{
+    background-color: yellow;
+}
+
+section{
+    background-color: white;
+}
+
+footer{
+    background-color: gray;
+}
+
+.align{
+    text-align: center;
+}

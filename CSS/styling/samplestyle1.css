@@ -1,0 +1,28 @@
+#paragraph{
+    font-size: medium;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: bold;
+    color: chartreuse;
+    column-gap: 10mm;
+}
+
+
+.font{
+    font-size:24px;
+}
+
+.blue{
+    color:blue;
+}
+
+.green{
+    color:green;
+}
+
+.styles{
+    color: darkmagenta;
+    font-weight: 900;
+    font-style:italic;
+    font-size: 2cm;
+}

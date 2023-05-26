@@ -1,0 +1,32 @@
+table{
+    width: 300px;
+}
+
+th,td{
+    text-align: center;
+    padding: 5px;
+    border: 1px solid gray;
+}
+
+th{
+    background-color: blanchedalmond;
+    color: black;
+    font-style: normal;
+    font-size: bold;
+}
+tr:nth-child(odd){
+    background-color: aqua;
+    color: brown;
+}
+
+tr:nth-child(even){
+    background-color: coral;
+    color: darkblue;
+}
+
+textarea{
+    overflow: hidden;
+    border: 1px solid greenyellow;
+    max-width: 150px;
+    max-height: 150px;
+}

@@ -1,0 +1,20 @@
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+a:hover{
+    color: cornflowerblue;
+    /* background-color: antiquewhite; */
+}
+
+a:active{
+    color: red;
+}
+
+div.hover{
+    background-color: aquamarine;
+}
