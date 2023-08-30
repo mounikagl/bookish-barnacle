@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+    <h1> Forms </h1>
+    <form action="/signup" method="get">
+    <input type="text" placeholder="Username">
+    <input type="password" placeholder="password">
+    <button type = "submit"> submit </button>
+    <!-- <input type="submit" value="submit"> -->
+    </form>
+
+    <h2>Inputs forms</h2>
+    <form action="">
+        <input type="email" placeholder="Email">
+        <input type="url" placeholder="Url">
+        <input type="number" placeholder="number">
+        <button> submit </button>
+    </form>
+<!-- using labels -->
+    <h2>Labels</h2>
+    <p><label for="username"> Enter your Username </label>
+    <input type="text" id="username" placeholder="username"></p>
+    <p><label for="password"> Enter password </label>
+    <input type="password" id="password" placeholder="password"></p>
+    <p> <button> login </button></p>
+
+    <h2>The Name Attribute</h2>
+    <form action="">
+        <div>
+        <label for="Country">Country:</label>
+        <input type="text" name="Country" id="Country" required>
+        <label for="State">State:</label>
+        <input type="text" name="State" id="state" required>
+        <button>submit</button>
+        </div>
+    </form>
+    
+    
+</body>
+</html>

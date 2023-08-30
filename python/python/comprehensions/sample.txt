@@ -1,0 +1,4 @@
+Hello guys
+this is advanced python
+current topic is list comprehensions
+now we are doing parsing a file using list comprehensions
